@@ -1,0 +1,41 @@
+# Ignore everything by default
+* 
+
+# Allow these specific files and directories
+!api/
+!api/index.py
+!requirements.txt
+!vercel.json
+
+# Exclude large or unnecessary files and directories
+**/__pycache__
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.pytest_cache
+**/.git
+**/.github
+**/.vscode
+**/.idea
+**/venv
+**/.venv
+**/env
+**/node_modules
+**/.gitignore
+**/.vercelignore
+**/*.pdf
+**/*.csv
+**/*.json
+**/*.pkl
+**/*.h5
+**/*.pt
+**/*.bin
+**/*.onnx
+**/*.log
+**/logs
+**/tests
+**/examples
+**/docs
+**/build
+**/dist
+**/chroma_resume
