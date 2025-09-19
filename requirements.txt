@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+langchain-google-genai
+google-generativeai
+langchain-chroma
+pypdf
+chromadb
+pydantic
+python-multipart
+httpx
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
