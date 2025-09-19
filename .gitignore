@@ -22,6 +22,9 @@ wheels/
 
 # Virtual Environment
 venv/
+
+# Database files
+chroma_resume/
 ENV/
 .env
 .venv
